@@ -1,0 +1,2 @@
+export const CHANGE_STATE = 'CHANGE_STATE'
+export const CHANGE_MODAL = 'CHANGE_MODAL'

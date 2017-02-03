@@ -1,0 +1,3 @@
+<template>
+  <svg width="100%" height="100%" viewBox="0 0 60 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;"><g id="lOGO"><path d="M26.846,30.059l-26.202,0.041l29.661,-29.496c9.712,9.712 19.425,19.424 29.137,29.137l-21.409,21.408l0,-10.464l10.945,-10.944l-18.673,-18.673l-11.693,11.592l16.999,0l7.613,7.399l-8.979,0l0,36.868l-0.072,0.805l-7.327,-7.327l0,-30.346Z" class="logo partie1"/><path d="M22.466,46.132l0,-11.832l-11.832,0l11.832,11.832Z" class="logo partie2"/></g></svg>
+</template>

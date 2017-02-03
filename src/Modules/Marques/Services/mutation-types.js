@@ -1,0 +1,1 @@
+export const INIT_MARQUES = 'INIT_MARQUES'
